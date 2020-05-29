@@ -16,7 +16,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- General -->
-    <string name="settings_title">Corvus Settings</string>
+    <string name="settings_title">Atom Settings</string>
     <string name="pref_value_default" translatable="false">Default</string>
 
     <!-- Categories -->
@@ -40,10 +40,10 @@
     <!-- QSB -->
     <string name="label_search">Search</string>
     <string name="label_voice_search">Voice search</string>
-	
+
     <!-- SmartSpace -->
     <string name="smartspace_preferences" translatable="false">Preferences</string>
- 
+
     <!-- Gradients on Workspace/Hotseat -->
     <string name="workspace_gradient_title">Show gradient on top</string>
     <string name="workspace_gradient_summary">Enable a subtle gradient from the status bar</string>
